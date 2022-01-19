@@ -17,5 +17,5 @@ $ pip install -r requirements.txt
 - Run application:
 
 ```shell
-$ python3 manage.py runserver 8000
+$ python3 manage.py runserver
 ```
