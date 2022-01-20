@@ -26,3 +26,8 @@ $ python3 manage.py runserver
 ![alt text](https://user-images.githubusercontent.com/70347351/150178402-63fa391a-0bb8-4faf-be9f-53f0b481629d.png)
 ## Todo App
 ![alt text](https://user-images.githubusercontent.com/70347351/150178427-e8d3b187-2b6f-414d-859b-6d03c819a39b.png)
+
+## License
+
+
+[MIT](https://choosealicense.com/licenses/mit/)
